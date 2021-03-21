@@ -1,6 +1,10 @@
 # Simon's Public Portfolio
 
-Work in Progress
+_Work in Progress_
+
+Workbooks to be made available at:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SimonStride/portfolio/HEAD)
 
 ## Prerequisites
 
@@ -26,5 +30,5 @@ pip install -r requirements.txt
 
 ## Additional Acknowledgements
 
-* MyBinder
+* MyBinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SimonStride/portfolio/HEAD)
 * OpenDoor Logistics (Postcode Shapefiles)
