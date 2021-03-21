@@ -1,2 +1,3 @@
-# portfolio
-Public Portfolio Items (WIP)
+# Simon's Public Portfolio
+
+Work in Progress
